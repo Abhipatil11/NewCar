@@ -37,9 +37,9 @@ function Hero() {
           <img className="bg-shape" src={BgShape} alt="bg-shape" />
           <div className="hero-content">
             <div className="hero-content__text">
-              <h4>Plan your trip now</h4>
+              <h1>JAY BHOLE</h1>
               <h1>
-                Save <span>big</span> with our car rental
+                TOURS <span>AND</span> TRAVELS our car rental
               </h1>
               <p>
                 Rent the car of your dreams. Unbeatable prices, unlimited miles,

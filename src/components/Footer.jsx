@@ -13,18 +13,18 @@ function Footer() {
                 have the perfect car to meet your needs.
               </li>
               <li>
-                <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; (123) -456-789
+                <a href="tel:8275829980">
+                  <i className="fa-solid fa-phone"></i> &nbsp; 8275829980
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                sachinbhosale393@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; carrental@xyz.com
+                  &nbsp; sachinbhosale393@gmail.com
                 </a>
               </li>
 
@@ -35,7 +35,7 @@ function Footer() {
                   rel="noreferrer"
                   href="https://devrahuls.vercel.app/"
                 >
-                  Design with ❤️ by Rahul
+                  Design with ❤️ by Abhi
                 </a>
               </li>
             </ul>

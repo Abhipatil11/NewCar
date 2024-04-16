@@ -9,7 +9,7 @@ function PlanTrip() {
         <div className="container">
           <div className="plan-container">
             <div className="plan-container__title">
-              <h3>Plan your trip now</h3>
+              <h3>JAY BHOLE</h3>
               <h2>Quick & easy car rental</h2>
             </div>
 
